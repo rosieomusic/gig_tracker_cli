@@ -1,0 +1,5 @@
+org/example/BaseDaoTests.class
+org/example/JdbcVenueTests.class
+org/example/JdbcBillDaoTests.class
+org/example/JdbcBandDaoTests.class
+org/example/TestingDatabaseConfig.class

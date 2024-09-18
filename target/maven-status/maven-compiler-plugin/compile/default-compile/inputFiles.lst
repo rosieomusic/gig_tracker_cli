@@ -1,0 +1,16 @@
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/GigTrackerApp.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/GigTrackerController.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/GigTrackerView.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/connection/DataConnection.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/dao/BandDao.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/dao/BillDao.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/dao/JdbcBandDao.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/dao/JdbcBillDao.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/dao/JdbcVenueDao.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/dao/VenueDao.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/exception/DaoException.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/model/Band.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/model/Bill.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/model/Venue.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/util/BasicConsole.java
+/Users/djrosieo/workspace/rose-omalley-student-code/module-2/week-5/mid-module-project/gigtrackerapp2/src/main/java/org/example/util/SystemInOutConsole.java
